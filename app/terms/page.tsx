@@ -228,7 +228,7 @@ export default function TermsPage() {
                 </p>
                 <p className="text-gray-700">
                   <strong>Contact Information:</strong> If you have any questions about these Terms, please contact 
-                  us by email at support@insightstudio.com.
+                  us by email at insightstudioapp@gmail.com.
                 </p>
               </section>
             </div>
