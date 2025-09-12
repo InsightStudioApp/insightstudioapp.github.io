@@ -228,7 +228,7 @@ export default function TermsPage() {
                 </p>
                 <p className="text-gray-700">
                   <strong>Contact Information:</strong> If you have any questions about these Terms, please contact 
-                  us by email at support@insightstudio.com.
+                  us by email at insightstudioapp@gmail.com.
                 </p>
               </section>
             </div>
@@ -244,7 +244,7 @@ export default function TermsPage() {
               <div className="w-6 h-6 bg-blue-600 rounded flex items-center justify-center">
                 <span className="text-white font-bold text-xs">IS</span>
               </div>
-              <span className="text-gray-600">© 2024 Insight Studio</span>
+              <span className="text-gray-600">© 2025 Insight Studio</span>
             </div>
           </div>
         </div>
