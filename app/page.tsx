@@ -115,7 +115,7 @@ export default function HomePage() {
               <div className="w-6 h-6 bg-blue-600 rounded flex items-center justify-center">
                 <span className="text-white font-bold text-xs">IS</span>
               </div>
-              <span className="text-gray-600">© 2024 Insight Studio</span>
+              <span className="text-gray-600">© 2025 Insight Studio</span>
             </div>
             <div className="flex items-center space-x-6">
               <Link href="/privacy" className="text-gray-500 hover:text-blue-600 text-sm">
